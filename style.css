@@ -7,7 +7,9 @@
 *{
   padding: 0;
   margin: 0;
-  box-sizing: border-box; 
+  box-sizing: border-box;
+  font-family: "Work Sans", sans-serif;
+
 }
 
 body {
@@ -68,13 +70,6 @@ a span {
 }
 
 
-* {
-  padding: 0rem;
-	margin: 0;
-	box-sizing: border-box;
-	font-family: "Work Sans", sans-serif;
-} 
-
 /* ------------------- Universal Styles --------------------*/
 
 body {
@@ -99,17 +94,8 @@ section {
   text-align: center;  
 }
 
-a:hover {
-  color: grey;
-  
-  
-  
-}
 
 /* ------------------- Typography --------------------*/
-a {
-  color: inherit;
-}
   
 h1 {
   font-size: 4rem;
@@ -192,10 +178,6 @@ header h1 span {
 /* padding-bottom: 60%; */
 }
 
-.img-3 {
-  
-  
-}
 
 
 /* ------------------- Footer ----------------------- */
